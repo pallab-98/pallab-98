@@ -2,6 +2,8 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:36BCF7,100:8A2BE2&height=220&section=header&text=Pallab&fontSize=50&fontColor=ffffff&animation=fadeIn"/>
 
+<img src="https://raw.githubusercontent.com/pallab-98/pallab-98/main/mine.png" width="100%">
+
 # Hi 👋, I'm Pallab
 
 ### Competitive Programmer | C/C++ Developer | Problem Solver
