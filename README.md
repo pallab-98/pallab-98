@@ -23,12 +23,7 @@
 <h3>
 I am passionate about problem solving and algorithms, with a strong interest in improving my programming skills through consistent practice. I regularly solve competitive programming problems and actively participate in Codeforces and CodeChef contests. My current focus is on strengthening my problem-solving abilities, enhancing coding speed, and maintaining consistency in learning and practice.
 </h3>
-<p align="center">
-I am passionate about problem solving and algorithms,<br>
-with a strong interest in improving my programming skills through consistent practice.<br>
-I regularly solve competitive programming problems and actively participate in Codeforces and CodeChef contests.<br>
-My current focus is on strengthening my problem-solving abilities and enhancing coding speed.
-</p>
+> I am passionate about problem solving and algorithms, with a strong interest in improving my programming skills through consistent practice. I regularly solve competitive programming problems and actively participate in Codeforces and CodeChef contests. My current focus is on strengthening my problem-solving abilities, enhancing coding speed, and maintaining consistency in learning and practice.
 
 - 🔭 Currently improving problem-solving skills and building projects in C/C++
 - 🌱 Learning Data Structures, Algorithms, and Competitive Programming
