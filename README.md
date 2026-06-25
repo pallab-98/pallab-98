@@ -147,11 +147,3 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:36BCF7,100:8A2BE2&height=120&section=footer"/>
 
 
---
-## 📊 Advanced GitHub Analytics
-
-<p align="center">
-  <a href="https://git-stats.streamlit.app/">
-    <img src="https://img.shields.io/badge/View%20Full%20Analytics-FF8C00?style=for-the-badge&logo=github&logoColor=white">
-  </a>
-</p>
