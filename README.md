@@ -52,6 +52,42 @@
 
 <p align="center">
 
+<p align="center">
+
+<a href="https://github.com/pallab-98">
+  <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/github.svg" height="40"/>
+</a>
+
+<a href="https://codeforces.com/profile/Pallab_98">
+  <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/codeforces.svg" height="40"/>
+</a>
+
+<a href="https://www.codechef.com/users/pallab_98">
+  <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/codechef.svg" height="40"/>
+</a>
+
+<a href="https://www.hackerrank.com/profile/pallab_98">
+  <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/hackerrank.svg" height="40"/>
+</a>
+
+<a href="https://leetcode.com/u/pallab_98/">
+  <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/leetcode.svg" height="40"/>
+</a>
+
+<a href="mailto:mazharulislampallab98@gmail.com">
+  <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/gmail.svg" height="40"/>
+</a>
+
+<a href="https://www.facebook.com/mi.pallab">
+  <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/facebook.svg" height="40"/>
+</a>
+
+<a href="https://wa.me/8801846257435">
+  <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/whatsapp.svg" height="40"/>
+</a>
+
+</p>
+
 <a href="https://github.com/pallab-98">
 <img src="https://skillicons.dev/icons?i=github" />
 </a>
