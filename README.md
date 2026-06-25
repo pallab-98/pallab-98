@@ -6,7 +6,7 @@
 
 # Hi 👋, I'm Pallab
 
-### Competitive Programmer | C/C++ Developer | Problem Solver
+## Competitive Programmer | C/C++ Developer | Problem Solver
 
 </div>
 
