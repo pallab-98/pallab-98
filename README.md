@@ -1,8 +1,12 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:36BCF7,100:8A2BE2&height=220&section=header&text=Pallab&fontSize=50&fontColor=ffffff&animation=fadeIn"/>
+<div align="center">
 
-<img src="https://raw.githubusercontent.com/pallab-98/pallab-98/main/mine.png" width="100%">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:ffb300,100:ff4500&height=180&section=header&text=Pallab%20Sutradhar&fontSize=45&fontColor=ffffff"/>
+
+<img src="https://raw.githubusercontent.com/pallab-98/pallab-98/main/mine.png" width="100%"/>
+
+</div>
 
 # Hi 👋, I'm Pallab
 
