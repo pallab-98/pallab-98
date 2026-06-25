@@ -9,6 +9,7 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira&weight=700&size=32&pause=1000&color=FF8C00&center=true&vCenter=true&width=700&lines=Hi%2C+I%27m+Pallab" />
 </p>
 <!-- //poppins -->
+
 ## Competitive Programmer | C/C++ Developer | Problem Solver
 
 </div>
