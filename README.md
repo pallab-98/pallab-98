@@ -73,6 +73,10 @@
   <img src="https://cdn.simpleicons.org/hackerrank" height="48" alt="HackerRank"/>
 </a>
 
+<a href="https://discord.com/users/pallab_98">
+  <img src="https://img.icons8.com/fluency/48/discord-logo.png" alt="Discord"/>
+</a>
+
 <a href="mailto:mazharulislampallab98@gmail.com">
   <img src="https://img.icons8.com/fluency/48/gmail-new.png" alt="Gmail"/>
 </a>
