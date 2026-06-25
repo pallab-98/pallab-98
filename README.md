@@ -6,7 +6,7 @@
 
 # Hi, I'm Pallab
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=32&pause=1500&color=FF8C00&center=true&vCenter=true&width=700&lines=Hi%2C+I%27m+Pallab" />
+  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=32&pause=1200&color=FF8C00&center=true&vCenter=true&width=700&lines=Hi%2C+I%27m+Pallab" />
 </p>
 
 ## Competitive Programmer | C/C++ Developer | Problem Solver
