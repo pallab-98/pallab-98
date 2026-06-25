@@ -115,7 +115,7 @@ I am passionate about problem solving and algorithms, with a strong interest in 
 </p>
 
 <p align="center">
-<img src="https://komarev.com/ghpvc/?username=pallab-98&label=PROFILE+VIEWS&color=ff8c00&style=for-the-badge"/>
+<img src="https://komarev.com/ghpvc/?username=pallab-98&label=PROFILE+VIEWS&color=0e75b6&style=for-the-badge"/>
 </p>
 ---
 
