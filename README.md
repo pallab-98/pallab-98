@@ -148,13 +148,10 @@
 
 
 --
-<h2 align="center">📊 GitHub Analytics</h2>
+## 📊 Advanced GitHub Analytics
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=pallab-98&show_icons=true&theme=tokyonight&hide_border=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pallab-98&layout=compact&theme=tokyonight&hide_border=true"/>
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=pallab-98&theme=tokyonight&hide_border=true"/>
+  <a href="https://git-stats.streamlit.app/">
+    <img src="https://img.shields.io/badge/View%20Full%20Analytics-FF8C00?style=for-the-badge&logo=github&logoColor=white">
+  </a>
 </p>
