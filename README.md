@@ -50,8 +50,27 @@
 
 ## 🌐 Connect With Me
 
-
 <p align="center">
+
+<a href="https://codeforces.com/profile/Pallab_98">
+  <img src="https://cdn.simpleicons.org/codeforces" height="48" alt="Codeforces"/>
+</a>
+
+<a href="https://www.codechef.com/users/pallab_98">
+  <img src="https://cdn.simpleicons.org/codechef" height="48" alt="CodeChef"/>
+</a>
+
+<a href="https://leetcode.com/u/pallab_98/">
+  <img src="https://cdn.simpleicons.org/leetcode" height="48" alt="LeetCode"/>
+</a>
+
+<a href="https://www.hackerrank.com/profile/pallab_98">
+  <img src="https://cdn.simpleicons.org/hackerrank" height="48" alt="HackerRank"/>
+</a>
+
+<a href="mailto:mazharulislampallab98@gmail.com">
+  <img src="https://img.icons8.com/fluency/48/gmail-new.png" alt="Gmail"/>
+</a>
 
 <a href="https://github.com/pallab-98">
   <img src="https://img.icons8.com/fluency/48/github.png" alt="GitHub"/>
@@ -63,56 +82,6 @@
 
 <a href="https://wa.me/8801846257435">
   <img src="https://img.icons8.com/fluency/48/whatsapp.png" alt="WhatsApp"/>
-</a>
-
-<a href="mailto:mazharulislampallab98@gmail.com">
-  <img src="https://img.icons8.com/fluency/48/gmail-new.png" alt="Gmail"/>
-</a>
-
-<a href="https://codeforces.com/profile/Pallab_98">
-  <img src="https://cdn.simpleicons.org/codeforces" height="48" alt="Codeforces"/>
-</a>
-
-<a href="https://www.codechef.com/users/pallab_98">
-  <img src="https://cdn.simpleicons.org/codechef" height="48" alt="CodeChef"/>
-</a>
-
-<a href="https://www.hackerrank.com/profile/pallab_98">
-  <img src="https://cdn.simpleicons.org/hackerrank" height="48" alt="HackerRank"/>
-</a>
-
-<a href="https://leetcode.com/u/pallab_98/">
-  <img src="https://cdn.simpleicons.org/leetcode" height="48" alt="LeetCode"/>
-</a>
-
-</p>
----
-<a href="https://codeforces.com/profile/Pallab_98">
-<img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/codeforces.svg" height="45"/>
-</a>
-
-<a href="https://www.codechef.com/users/pallab_98">
-<img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/codechef.svg" height="45"/>
-</a>
-
-<a href="https://www.hackerrank.com/profile/pallab_98">
-<img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/hackerrank.svg" height="45"/>
-</a>
-
-<a href="https://leetcode.com/u/pallab_98/">
-<img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/leetcode.svg" height="45"/>
-</a>
-
-<a href="mailto:mazharulislampallab98@gmail.com">
-<img src="https://skillicons.dev/icons?i=gmail" />
-</a>
-
-<a href="https://www.facebook.com/mi.pallab">
-<img src="https://img.icons8.com/color/48/facebook-new.png"/>
-</a>
-
-<a href="https://wa.me/8801846257435">
-  <img src="https://img.icons8.com/color/48/whatsapp--v1.png"/>
 </a>
 
 </p>
