@@ -1,8 +1,8 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:36BCF7,100:8A2BE2&height=220&section=header&text=Pallab%20Sutradhar&fontSize=50&fontColor=ffffff&animation=fadeIn"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:36BCF7,100:8A2BE2&height=220&section=header&text=Pallab&fontSize=50&fontColor=ffffff&animation=fadeIn"/>
 
-# Hi 👋, I'm Pallab Sutradhar
+# Hi 👋, I'm Pallab
 
 ### Competitive Programmer | C/C++ Developer | Problem Solver
 
@@ -12,7 +12,7 @@
 
 ---
 
-## 🚀 About Me
+### About Me
 
 I am passionate about problem solving and algorithms, with a strong interest in improving my programming skills through consistent practice. I regularly solve competitive programming problems and actively participate in Codeforces and CodeChef contests. My current focus is on strengthening my problem-solving abilities, enhancing coding speed, and maintaining consistency in learning and practice.
 
@@ -27,7 +27,7 @@ I am passionate about problem solving and algorithms, with a strong interest in 
 
 ---
 
-## 🛠️ Languages and Tools
+### Languages and Tools
 
 <p align="center">
 <img src="https://skillicons.dev/icons?i=c,cpp,html,css,js,git,github,vscode" />
@@ -35,7 +35,7 @@ I am passionate about problem solving and algorithms, with a strong interest in 
 
 ---
 
-## 🌐 Connect With Me
+### 🌐 Connect With Me
 
 <p align="center">
 <a href="https://github.com/pallab-98">
@@ -69,7 +69,7 @@ I am passionate about problem solving and algorithms, with a strong interest in 
 
 ---
 
-## 🏆 GitHub Trophies
+### GitHub Trophies
 
 <p align="center">
 <img src="https://github-profile-trophy.vercel.app/?username=pallab-98&theme=tokyonight&no-frame=true&row=1&column=7"/>
@@ -77,7 +77,7 @@ I am passionate about problem solving and algorithms, with a strong interest in 
 
 ---
 
-## 📊 GitHub Stats
+### GitHub Stats
 
 <p align="center">
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=pallab-98&show_icons=true&theme=tokyonight&hide_border=true"/>
@@ -86,7 +86,7 @@ I am passionate about problem solving and algorithms, with a strong interest in 
 
 ---
 
-## 🔥 GitHub Streak
+### GitHub Streak
 
 <p align="center">
 <img src="https://streak-stats.demolab.com?user=pallab-98&theme=tokyonight&hide_border=true"/>
@@ -94,7 +94,7 @@ I am passionate about problem solving and algorithms, with a strong interest in 
 
 ---
 
-## 📈 Contribution Graph
+### Contribution Graph
 
 <p align="center">
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=pallab-98&theme=tokyo-night"/>
@@ -102,7 +102,7 @@ I am passionate about problem solving and algorithms, with a strong interest in 
 
 ---
 
-## 👀 Profile Views
+### Profile Views
 
 <p align="center">
 <img src="https://komarev.com/ghpvc/?username=pallab-98&label=Profile%20Views&color=0e75b6&style=flat"/>
@@ -112,7 +112,7 @@ I am passionate about problem solving and algorithms, with a strong interest in 
 
 <div align="center">
 
-### 🚀 "Consistency beats intensity."
+### "Consistency beats intensity."
 
 </div>
 
