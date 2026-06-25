@@ -20,8 +20,11 @@
 
 ### About Me
 
+<h3>
 I am passionate about problem solving and algorithms, with a strong interest in improving my programming skills through consistent practice. I regularly solve competitive programming problems and actively participate in Codeforces and CodeChef contests. My current focus is on strengthening my problem-solving abilities, enhancing coding speed, and maintaining consistency in learning and practice.
-
+</h3>
+I am passionate about problem solving and algorithms, with a strong interest in improving my programming skills through consistent practice. I regularly solve competitive programming problems and actively participate in Codeforces and CodeChef contests. My current focus is on strengthening my problem-solving abilities, enhancing coding speed, and maintaining consistency in learning and practice.
+<h2>
 - 🔭 Currently improving problem-solving skills and building projects in C/C++
 - 🌱 Learning Data Structures, Algorithms, and Competitive Programming
 - 👯 Looking to collaborate on open-source and beginner-friendly projects
@@ -30,7 +33,7 @@ I am passionate about problem solving and algorithms, with a strong interest in 
 - 📫 Email: **[mazharulislampallab98@gmail.com](mailto:mazharulislampallab98@gmail.com)**
 - 😄 Pronouns: **He/Him**
 - ⚡ Fun fact: **I try to solve at least 3 programming problems every day.**
-
+</h2>
 ---
 
 ### Languages and Tools
