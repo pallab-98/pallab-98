@@ -139,9 +139,10 @@
 <div align="center">
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=32&pause=1500&color=FF8C00&center=true&vCenter=true&width=700&lines=Consistency+beats+intensity." />
+  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=32&pause=1500&color=A295F0&center=true&vCenter=true&width=700&lines=Consistency+beats+intensity." />
 </p>
-
+<!-- #A295F0
+orginal color: FF8C00 -->
 </div>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:36BCF7,100:8A2BE2&height=120&section=footer"/>
