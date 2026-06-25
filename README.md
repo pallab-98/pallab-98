@@ -22,18 +22,25 @@
 
 ### I am passionate about problem solving and algorithms, with a strong interest in improving my programming skills through consistent practice. I regularly solve competitive programming problems and actively participate in Codeforces and CodeChef contests. My current focus is on strengthening my problem-solving abilities, enhancing coding speed, and maintaining consistency in learning and practice.
 
-- 🔭 Currently improving problem-solving skills and building projects in C/C++
-- 🌱 Learning Data Structures, Algorithms, and Competitive Programming
-- 👯 Looking to collaborate on open-source and beginner-friendly projects
-- 🤔 Looking for help with advanced algorithms and software development
-- 💬 Ask me about C, C++, Competitive Programming, Data Structures, and Algorithms
-- 📫 Email: **[mazharulislampallab98@gmail.com](mailto:mazharulislampallab98@gmail.com)**
-- 😄 Pronouns: **He/Him**
-- ⚡ Fun fact: **I try to solve at least 3 programming problems every day.**
+### - 🔭 Currently improving problem-solving skills and building projects in C/C++
+
+### - 🌱 Learning Data Structures, Algorithms, and Competitive Programming
+
+### - 👯 Looking to collaborate on open-source and beginner-friendly projects
+
+### - 🤔 Looking for help with advanced algorithms and software development
+
+### - 💬 Ask me about C, C++, Competitive Programming, Data Structures, and Algorithms
+
+### - 📫 Email: **[mazharulislampallab98@gmail.com](mailto:mazharulislampallab98@gmail.com)**
+
+### - 😄 Pronouns: **He/Him**
+
+### - ⚡ Fun fact: **I try to solve at least 3 programming problems every day.**
 
 ---
 
-### Languages and Tools
+## Languages and Tools
 
 <p align="center">
 <img src="https://skillicons.dev/icons?i=c,cpp,html,css,js,git,github,vscode" />
@@ -41,7 +48,7 @@
 
 ---
 
-### 🌐 Connect With Me
+## 🌐 Connect With Me
 
 <p align="center">
 
@@ -81,7 +88,7 @@
 
 ---
 
-### GitHub Trophies
+## GitHub Trophies
 
 <p align="center">
 <img src="https://github-profile-trophy.vercel.app/?username=pallab-98&theme=tokyonight&no-frame=true&row=1&column=7"/>
@@ -89,7 +96,7 @@
 
 ---
 
-### GitHub Stats
+## GitHub Stats
 
 <p align="center">
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=pallab-98&show_icons=true&theme=tokyonight&hide_border=true"/>
@@ -98,7 +105,7 @@
 
 ---
 
-### GitHub Streak
+## GitHub Streak
 
 <p align="center">
 <img src="https://streak-stats.demolab.com?user=pallab-98&theme=tokyonight&hide_border=true"/>
@@ -106,7 +113,7 @@
 
 ---
 
-### Contribution Graph
+## Contribution Graph
 
 <p align="center">
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=pallab-98&theme=tokyo-night"/>
@@ -114,7 +121,7 @@
 
 ---
 
-### Profile Views
+## Profile Views
 
 <p align="center">
 <img src="https://komarev.com/ghpvc/?username=pallab-98&label=PROFILE+VIEWS&color=0e75b6&style=for-the-badge"/>
