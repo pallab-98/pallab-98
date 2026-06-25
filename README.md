@@ -73,6 +73,10 @@ I am passionate about problem solving and algorithms, with a strong interest in 
 <img src="https://img.icons8.com/color/48/facebook-new.png"/>
 </a>
 
+<a href="https://wa.me/8801846257435">
+  <img src="https://img.icons8.com/color/48/whatsapp--v1.png"/>
+</a>
+
 </p>
 
 ---
