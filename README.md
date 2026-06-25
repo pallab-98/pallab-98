@@ -2,8 +2,6 @@
 
 <img src="https://raw.githubusercontent.com/pallab-98/pallab-98/main/mine.png" width="100%"/>
 
-
-
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:f7b733,100:fc4a1a&height=80&section=header"/>
 
 # Hi 👋, I'm Pallab
@@ -116,6 +114,9 @@ I am passionate about problem solving and algorithms, with a strong interest in 
 <img src="https://komarev.com/ghpvc/?username=pallab-98&label=Profile%20Views&color=0e75b6&style=flat"/>
 </p>
 
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=pallab-98&label=PROFILE+VIEWS&color=ff8c00&style=for-the-badge"/>
+</p>
 ---
 
 <div align="center">
