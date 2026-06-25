@@ -44,12 +44,9 @@ I am passionate about problem solving and algorithms, with a strong interest in 
 ### 🌐 Connect With Me
 
 <p align="center">
+
 <a href="https://github.com/pallab-98">
 <img src="https://skillicons.dev/icons?i=github" />
-</a>
-
-<a href="https://www.facebook.com/mi.pallab">
-<img src="https://img.icons8.com/color/48/facebook-new.png"/>
 </a>
 
 <a href="https://codeforces.com/profile/Pallab_98">
@@ -71,6 +68,11 @@ I am passionate about problem solving and algorithms, with a strong interest in 
 <a href="mailto:mazharulislampallab98@gmail.com">
 <img src="https://skillicons.dev/icons?i=gmail" />
 </a>
+
+<a href="https://www.facebook.com/mi.pallab">
+<img src="https://img.icons8.com/color/48/facebook-new.png"/>
+</a>
+
 </p>
 
 ---
@@ -121,7 +123,6 @@ I am passionate about problem solving and algorithms, with a strong interest in 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=32&pause=1500&color=FF8C00&center=true&vCenter=true&width=700&lines=Consistency+beats+intensity." />
 </p>
-### "Consistency beats intensity."
 
 </div>
 
