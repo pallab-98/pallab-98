@@ -111,16 +111,16 @@ I am passionate about problem solving and algorithms, with a strong interest in 
 ### Profile Views
 
 <p align="center">
-<img src="https://komarev.com/ghpvc/?username=pallab-98&label=Profile%20Views&color=0e75b6&style=flat"/>
-</p>
-
-<p align="center">
 <img src="https://komarev.com/ghpvc/?username=pallab-98&label=PROFILE+VIEWS&color=0e75b6&style=for-the-badge"/>
 </p>
----
+
+
 
 <div align="center">
 
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=32&pause=1500&color=FF8C00&center=true&vCenter=true&width=700&lines=Consistency+beats+intensity." />
+</p>
 ### "Consistency beats intensity."
 
 </div>
