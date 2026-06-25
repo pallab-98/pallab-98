@@ -6,11 +6,11 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:f7b733,100:fc4a1a&height=80&section=header"/>
 
-</div>
-
 # Hi 👋, I'm Pallab
 
 ### Competitive Programmer | C/C++ Developer | Problem Solver
+
+</div>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&center=true&vCenter=true&width=600&lines=Competitive+Programmer;C%2FC%2B%2B+Developer;Data+Structures+%26+Algorithms+Enthusiast;Codeforces+%7C+CodeChef+%7C+LeetCode;Always+Learning+New+Things" />
