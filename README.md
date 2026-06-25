@@ -5,6 +5,9 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:f7b733,100:fc4a1a&height=80&section=header"/>
 
 # Hi, I'm Pallab
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=32&pause=1500&color=FF8C00&center=true&vCenter=true&width=700&lines=Hi, +I'm+Pallab." />
+</p>
 
 ## Competitive Programmer | C/C++ Developer | Problem Solver
 
