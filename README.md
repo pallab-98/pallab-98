@@ -22,6 +22,19 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:f7b733,100:fc4a1a&height=80&section=footer&reversal=true"/>
 
 </div>
+
+<!-- test start -->
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:f7b733,100:fc4a1a&height=120&section=header"/>
+
+<h2 align="center">
+Competitive Programmer | C/C++ Developer | Problem Solver
+</h2>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=FF8C00&center=true&vCenter=true&width=700&lines=Competitive+Programmer;C%2FC%2B%2B+Developer;Data+Structures+%26+Algorithms+Enthusiast;Codeforces+%7C+CodeChef+%7C+LeetCode;Always+Learning+New+Things"/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:f7b733,100:fc4a1a&height=120&section=footer&reversal=true"/>
+
+<!-- test end -->
 ---
 
 ## About Me
