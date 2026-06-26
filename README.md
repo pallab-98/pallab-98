@@ -1,6 +1,6 @@
 <div align="center">
 <!-- banner -->
-<img src="https://raw.githubusercontent.com/pallab-98/pallab-98/main/mine.png" width="100%"/>
+<img src="https://raw.githubusercontent.com/pallab-98/pallab-98/main/admine.png" width="100%"/>
 
 <!-- capsul -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:f7b733,100:fc4a1a&height=100&section=header"/>
@@ -139,7 +139,8 @@
   <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=32&pause=1500&color=A295F0&center=true&vCenter=true&width=700&lines=Consistency+beats+intensity." />
 </p>
 <!-- #A295F0
-orginal color: #FF8C00 -->
+orginal color: #FF8C00
+#FFD166 -->
 </div>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:36BCF7,100:8A2BE2&height=120&section=footer"/>
