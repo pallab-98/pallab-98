@@ -93,12 +93,17 @@
 </p>
 
 ---
+## Profile Views
 
-## GitHub Trophies
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=pallab-98&label=PROFILE+VIEWS&color=0e75b6&style=for-the-badge"/>
+</p> 
+
+<!-- ## GitHub Trophies
 
 <p align="center">
 <img src="https://github-profile-trophy.vercel.app/?username=pallab-98&theme=tokyonight&no-frame=true&row=1&column=7"/>
-</p>
+</p> -->
 
 ---
 
@@ -127,11 +132,13 @@
 
 ---
 
+<!-- 
 ## Profile Views
 
 <p align="center">
 <img src="https://komarev.com/ghpvc/?username=pallab-98&label=PROFILE+VIEWS&color=0e75b6&style=for-the-badge"/>
-</p>
+</p> 
+-->
 
 <div align="center">
 
