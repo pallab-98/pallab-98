@@ -27,6 +27,10 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:f7b733,100:fc4a1a&height=120&section=header"/>
 
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=poppins&weight=700&size=32&pause=1000&color=FF8C00&center=true&vCenter=true&width=700&lines=Hi%2C+I%27m+Pallab" />
+</p>
+
 <h2 align="center">
 Competitive Programmer | C/C++ Developer | Problem Solver
 </h2>
