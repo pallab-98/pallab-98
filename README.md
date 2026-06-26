@@ -5,11 +5,12 @@
 <!-- capsul -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:f7b733,100:fc4a1a&height=100&section=header"/>
 
-<!-- # Hi, I'm Pallab -->
+<!-- Hi, I'm Pallab -->
 
 <p align="center">
 <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=34&pause=1800&color=FF8C00&center=true&vCenter=true&width=800&lines=Hi%2C+I'm+Pallab"/>
 </p>
+<!-- msg -->
 <p align="center">
 <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=34&pause=1800&color=FF8C00&center=true&vCenter=true&width=850&lines=Competitive+Programmer;Problem+Solver;C%2FC%2B%2B+Developer;Data+Structures+%26+Algorithms+Enthusiast;Codeforces+%7C+CodeChef+%7C+LeetCode"/>
 </p>
@@ -18,25 +19,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:f7b733,100:fc4a1a&height=100&section=footer&reversal=true"/>
 
 </div>
-
-<!-- test start -->
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:f7b733,100:fc4a1a&height=120&section=header"/>
-
-<!-- new add 2 -->
-<p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=34&pause=1500&color=FF8C00&center=true&vCenter=true&width=800&lines=Hi%2C+I'm+Pallab"/>
-</p>
-<p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=34&pause=1500&color=FF8C00&center=true&vCenter=true&width=850&lines=Competitive+Programmer;Problem+Solver;C%2FC%2B%2B+Developer;Data+Structures+%26+Algorithms+Enthusiast;Codeforces+%7C+CodeChef+%7C+LeetCode"/>
-</p>
-<!-- new add 2 end -->
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:f7b733,100:fc4a1a&height=120&section=footer&reversal=true"/>
-
-<!-- test end -->
 ---
-
 ## About Me
 
 ### I am passionate about problem solving and algorithms, with a strong interest in improving my programming skills through consistent practice. I regularly solve competitive programming problems and actively participate in Codeforces and CodeChef contests. My current focus is on strengthening my problem-solving abilities, enhancing coding speed, and maintaining consistency in learning and practice.
