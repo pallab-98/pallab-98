@@ -13,11 +13,15 @@
 
 ## Competitive Programmer | C/C++ Developer | Problem Solver
 
-</div>
+
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&center=true&vCenter=true&width=600&lines=Competitive+Programmer;C%2FC%2B%2B+Developer;Data+Structures+%26+Algorithms+Enthusiast;Codeforces+%7C+CodeChef+%7C+LeetCode;Always+Learning+New+Things" />
 </p>
+
+
+<!-- Down capul design -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:f7b733,100:fc4a1a&height=80&section=footer&reversal=true"/>
 
 </div>
 
@@ -148,4 +152,3 @@ orginal color: #FF8C00 -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:36BCF7,100:8A2BE2&height=120&section=footer"/>
  
  ---
- 
