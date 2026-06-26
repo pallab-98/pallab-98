@@ -3,7 +3,7 @@
 <img src="https://raw.githubusercontent.com/pallab-98/pallab-98/main/mine.png" width="100%"/>
 
 <!-- capsul -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:f7b733,100:fc4a1a&height=80&section=header"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:f7b733,100:fc4a1a&height=100&section=header"/>
 
 <!-- # Hi, I'm Pallab -->
 
@@ -15,7 +15,7 @@
 </p>
 
 <!-- Down capul design -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:f7b733,100:fc4a1a&height=80&section=footer&reversal=true"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:f7b733,100:fc4a1a&height=100&section=footer&reversal=true"/>
 
 </div>
 
