@@ -27,9 +27,6 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:f7b733,100:fc4a1a&height=120&section=header"/>
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=poppins&weight=700&size=32&pause=1000&color=FF8C00&center=true&vCenter=true&width=700&lines=Hi%2C+I%27m+Pallab" />
-</p>
 <!-- new add 2 -->
 <p align="center">
 <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=34&pause=1500&color=FF8C00&center=true&vCenter=true&width=800&lines=Hi%2C+I'm+Pallab"/>
@@ -38,7 +35,7 @@
 <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=34&pause=1500&color=FF8C00&center=true&vCenter=true&width=800&lines=Competitive+Programmer;C%2FC%2B%2B+Developer;Problem+Solver;Data+Structures+%26+Algorithms+Enthusiast"/>
 </p>
 <!-- new add 2 end -->
-<img src="https://readme-typing-svg.demolab.com?font=Poppins+Code&size=24&pause=1000&color=FF8C00&center=true&vCenter=true&width=700&lines=Competitive+Programmer;C%2FC%2B%2B+Developer;Data+Structures+%26+Algorithms+Enthusiast;Codeforces+%7C+CodeChef+%7C+LeetCode;Always+Learning+New+Things"/>
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=34&pause=1500&color=FF8C00&center=true&vCenter=true&width=700&lines=Competitive+Programmer;C%2FC%2B%2B+Developer;Data+Structures+%26+Algorithms+Enthusiast;Codeforces+%7C+CodeChef+%7C+LeetCode;Always+Learning+New+Things"/>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:f7b733,100:fc4a1a&height=120&section=footer&reversal=true"/>
 
