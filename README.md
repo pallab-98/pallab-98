@@ -1,7 +1,8 @@
 <div align="center">
-
+<!-- banner -->
 <img src="https://raw.githubusercontent.com/pallab-98/pallab-98/main/mine.png" width="100%"/>
 
+<!-- capsul -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:f7b733,100:fc4a1a&height=80&section=header"/>
 
 <!-- # Hi, I'm Pallab -->
@@ -13,12 +14,9 @@
 
 ## Competitive Programmer | C/C++ Developer | Problem Solver
 
-
-
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&center=true&vCenter=true&width=600&lines=Competitive+Programmer;C%2FC%2B%2B+Developer;Data+Structures+%26+Algorithms+Enthusiast;Codeforces+%7C+CodeChef+%7C+LeetCode;Always+Learning+New+Things" />
 </p>
-
 
 <!-- Down capul design -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:f7b733,100:fc4a1a&height=80&section=footer&reversal=true"/>
