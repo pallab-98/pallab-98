@@ -8,14 +8,10 @@
 <!-- # Hi, I'm Pallab -->
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=poppins&weight=700&size=32&pause=1000&color=FF8C00&center=true&vCenter=true&width=700&lines=Hi%2C+I%27m+Pallab" />
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=34&pause=1500&color=FF8C00&center=true&vCenter=true&width=800&lines=Hi%2C+I'm+Pallab"/>
 </p>
-<!-- //font -- poppins -->
-
-## Competitive Programmer | C/C++ Developer | Problem Solver
-
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&center=true&vCenter=true&width=600&lines=Competitive+Programmer;C%2FC%2B%2B+Developer;Data+Structures+%26+Algorithms+Enthusiast;Codeforces+%7C+CodeChef+%7C+LeetCode;Always+Learning+New+Things" />
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=34&pause=1800&color=FF8C00&center=true&vCenter=true&width=850&lines=Competitive+Programmer;Problem+Solver;C%2FC%2B%2B+Developer;Data+Structures+%26+Algorithms+Enthusiast;Codeforces+%7C+CodeChef+%7C+LeetCode"/>
 </p>
 
 <!-- Down capul design -->
