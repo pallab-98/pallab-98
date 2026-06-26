@@ -30,11 +30,14 @@
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=poppins&weight=700&size=32&pause=1000&color=FF8C00&center=true&vCenter=true&width=700&lines=Hi%2C+I%27m+Pallab" />
 </p>
-
+<!-- new add 2 -->
 <p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=34&pause=1500&color=FF8C00&center=true&vCenter=true&width=800&lines=Hi%2C+I'm+Pallab+%F0%9F%91%8B;Competitive+Programmer;C%2FC%2B%2B+Developer;Problem+Solver;Data+Structures+%26+Algorithms+Enthusiast"/>
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=34&pause=1500&color=FF8C00&center=true&vCenter=true&width=800&lines=Hi%2C+I'm+Pallab"/>
 </p>
-
+<p align="center">
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=34&pause=1500&color=FF8C00&center=true&vCenter=true&width=800&lines=Competitive+Programmer;C%2FC%2B%2B+Developer;Problem+Solver;Data+Structures+%26+Algorithms+Enthusiast"/>
+</p>
+<!-- new add 2 end -->
 <h2 align="center">
 Competitive Programmer | C/C++ Developer | Problem Solver
 </h2>
