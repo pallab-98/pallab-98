@@ -19,7 +19,6 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:f7b733,100:fc4a1a&height=100&section=footer&reversal=true"/>
 
 </div>
----
 
 ## About Me
 
