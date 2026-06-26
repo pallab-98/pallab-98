@@ -8,7 +8,7 @@
 <!-- # Hi, I'm Pallab -->
 
 <p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=34&pause=1600&color=FF8C00&center=true&vCenter=true&width=800&lines=Hi%2C+I'm+Pallab"/>
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=34&pause=1800&color=FF8C00&center=true&vCenter=true&width=800&lines=Hi%2C+I'm+Pallab"/>
 </p>
 <p align="center">
 <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=34&pause=1800&color=FF8C00&center=true&vCenter=true&width=850&lines=Competitive+Programmer;Problem+Solver;C%2FC%2B%2B+Developer;Data+Structures+%26+Algorithms+Enthusiast;Codeforces+%7C+CodeChef+%7C+LeetCode"/>
@@ -28,7 +28,7 @@
 <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=34&pause=1500&color=FF8C00&center=true&vCenter=true&width=800&lines=Hi%2C+I'm+Pallab"/>
 </p>
 <p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=34&pause=1800&color=FF8C00&center=true&vCenter=true&width=850&lines=Competitive+Programmer;Problem+Solver;C%2FC%2B%2B+Developer;Data+Structures+%26+Algorithms+Enthusiast;Codeforces+%7C+CodeChef+%7C+LeetCode"/>
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=34&pause=1500&color=FF8C00&center=true&vCenter=true&width=850&lines=Competitive+Programmer;Problem+Solver;C%2FC%2B%2B+Developer;Data+Structures+%26+Algorithms+Enthusiast;Codeforces+%7C+CodeChef+%7C+LeetCode"/>
 </p>
 <!-- new add 2 end -->
 
