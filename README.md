@@ -22,7 +22,11 @@
 
 ## About Me
 
-### I am passionate about problem solving and algorithms, with a strong interest in improving <br> my programming skills through consistent practice. I regularly solve competitive programming problems and actively participate in Codeforces and CodeChef contests. My current focus is on strengthening <br> my problem-solving abilities, enhancing coding speed, and maintaining consistency in learning and practice.
+### I am passionate about problem solving and algorithms, with a strong interest in continuously improving my programming skills through consistent practice.
+
+### I regularly solve competitive programming problems and actively participate in Codeforces and CodeChef contests.
+
+### Currently, I am focused on strengthening my problem-solving skills, improving coding speed, and maintaining consistency in learning.
 
 ### - 🔭 Currently improving problem-solving skills and building projects in C/C++
 
