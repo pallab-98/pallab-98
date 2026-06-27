@@ -22,14 +22,14 @@
 
 ## About Me
 
-### I am passionate about problem solving and algorithms, with a strong interest in continuously improving my programming skills through consistent practice.
+### I am passionate about problem-solving and algorithms, with a strong interest in continuously improving my programming skills through consistent practice.
 
 ### I regularly solve competitive programming problems and actively participate in Codeforces and CodeChef contests.
 
-### Currently, I am focused on strengthening my problem-solving skills, improving coding speed, and maintaining consistency in learning.
+### Currently, I am focused on learning Data Structures and Algorithms, strengthening my problem-solving skills, improving coding speed, and maintaining consistency in competitive programming.
 
 
-### - 🔭 Currently improving problem-solving skills and building projects in C/C++
+### - 🔭 Building projects in C/C++ and improving problem-solving skills
 
 ### - 🌱 Learning Data Structures, Algorithms, and Competitive Programming
 
@@ -37,7 +37,7 @@
 
 ### - 🤔 Looking for help with advanced algorithms and software development
 
-### - 💬 Ask me about C/C++, Data Structures, Algorithms, Competitive Programming, and Software Development.
+### - 💬 Ask me about C/C++, Data Structures, Algorithms, Competitive Programming, and Software Development
 
 ### - 📫 Email: **[mazharulislampallab98@gmail.com](mailto:mazharulislampallab98@gmail.com)**
 
