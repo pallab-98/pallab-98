@@ -37,13 +37,13 @@
 
 ### - 🤔 Looking for help with advanced algorithms and software development
 
-### - 💬 Ask me about C, C++, Competitive Programming, Data Structures, and Algorithms
+### - 💬 Ask me about C/C++, Data Structures, Algorithms, Competitive Programming, and Software Development.
 
 ### - 📫 Email: **[mazharulislampallab98@gmail.com](mailto:mazharulislampallab98@gmail.com)**
 
 ### - 😄 Pronouns: **He/Him**
 
-### - ⚡ Fun fact: **I try to solve at least 3 programming problems every day.**
+### - ⚡ Fun fact: **I solve at least 3 programming problems every day.**
 
 ---
 
