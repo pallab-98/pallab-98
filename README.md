@@ -37,7 +37,7 @@
 
 ### - 🤔 Looking for help with advanced algorithms and software development
 
-### - 💬 Ask me about C/C++, Data Structures, Algorithms, Competitive Programming, and Software    Development
+### - 💬 Ask me about C/C++, Data Structures, Algorithms, Competitive Programming, and Software Development
 
 ### - 📫 Email: **[mazharulislampallab98@gmail.com](mailto:mazharulislampallab98@gmail.com)**
 
