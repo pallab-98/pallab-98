@@ -28,7 +28,6 @@
 
 ### Currently, I am focused on learning Data Structures and Algorithms, strengthening my problem-solving skills, improving coding speed, and maintaining consistency in competitive programming.
 
-
 ### - 🔭 Building projects in C/C++ and improving problem-solving skills
 
 ### - 🌱 Learning Data Structures, Algorithms, and Competitive Programming
@@ -98,11 +97,12 @@
 </p>
 
 ---
+
 ## Profile Views
 
 <p align="center">
 <img src="https://komarev.com/ghpvc/?username=pallab-98&label=PROFILE+VIEWS&color=0e75b6&style=for-the-badge"/>
-</p> 
+</p>
 
 <!-- ## GitHub Trophies
 
@@ -138,12 +138,12 @@
 
 ---
 
-<!-- 
+<!--
 ## Profile Views
 
 <p align="center">
 <img src="https://komarev.com/ghpvc/?username=pallab-98&label=PROFILE+VIEWS&color=0e75b6&style=for-the-badge"/>
-</p> 
+</p>
 -->
 
 <div align="center">
