@@ -120,10 +120,6 @@
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pallab-98&layout=compact&theme=tokyonight&hide_border=true"/>
 </p>
 
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=pallab-98&show_icons=true&theme=tokyonight"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pallab-98&layout=compact&theme=tokyonight"/>
-</p>
 ---
 
 ## GitHub Streak
