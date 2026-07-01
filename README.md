@@ -136,7 +136,6 @@
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=pallab-98&theme=tokyo-night"/>
 </p>
 
- ---
 
 <!--
 ## Profile Views
@@ -145,7 +144,6 @@
 <img src="https://komarev.com/ghpvc/?username=pallab-98&label=PROFILE+VIEWS&color=0e75b6&style=for-the-badge"/>
 </p>
 -->
-## Contributions Graph
 
 <p align="center">
   <picture>
@@ -171,12 +169,4 @@ orginal color: #FF8C00
  
  ---
 
- ## Contributions Graph
-
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/7oSkaaa/7oSkaaa/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/7oSkaaa/7oSkaaa/output/github-contribution-grid-snake.svg">
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/7oSkaaa/7oSkaaa/output/github-contribution-grid-snake.svg">
-  </picture>
-</p>
+ 
