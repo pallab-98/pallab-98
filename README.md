@@ -136,7 +136,7 @@
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=pallab-98&theme=tokyo-night"/>
 </p>
 
----
+ ---
 
 <!--
 ## Profile Views
@@ -154,7 +154,9 @@
     <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/7oSkaaa/7oSkaaa/output/github-contribution-grid-snake.svg">
   </picture>
 </p>
----
+
+ ---
+
 <div align="center">
 
 <p align="center">
