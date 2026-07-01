@@ -145,7 +145,16 @@
 <img src="https://komarev.com/ghpvc/?username=pallab-98&label=PROFILE+VIEWS&color=0e75b6&style=for-the-badge"/>
 </p>
 -->
+## Contributions Graph
 
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/7oSkaaa/7oSkaaa/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/7oSkaaa/7oSkaaa/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/7oSkaaa/7oSkaaa/output/github-contribution-grid-snake.svg">
+  </picture>
+</p>
+---
 <div align="center">
 
 <p align="center">
@@ -159,7 +168,7 @@ orginal color: #FF8C00
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:36BCF7,100:8A2BE2&height=120&section=footer"/>
  
  ---
- 
+
  ## Contributions Graph
 
 <p align="center">
