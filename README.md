@@ -40,6 +40,8 @@
 
 ### - 📫 Email: **[mazharulislampallab98@gmail.com](mailto:mazharulislampallab98@gmail.com)**
 
+<!-- ### - 😄 Pronouns: **He/Him** -->
+
 ### - ⚡ Fun fact: **I solve at least 3 programming problems every day.**
 
 ---
